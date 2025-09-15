@@ -9,5 +9,6 @@
 ## 🛠️ Tech Stack  
 **Front-End:** HTML, CSS, JavaScript, React, TailwindCSS  
 **Back-End:** Ruby, Ruby on Rails  
-**Databases:** PostgreSQL
+**Databases:** PostgreSQL  
 **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Figma, VS Code, TablePlus, Postman
+
