@@ -1,4 +1,4 @@
-# Hi, I’m Emmanuel 👋  
+## Hi, I’m Emmanuel 👋  
 
 💻 **Full-Stack Developer** | Passionate about building functional and user-friendly web apps.  
 🚀 Always learning and experimenting with new technologies to improve my craft.  
