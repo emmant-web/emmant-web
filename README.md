@@ -8,8 +8,8 @@
 
 ## 🛠️ Tech Stack  
 **Languages:** HTML, CSS, Javascript, TypeScript, Ruby  
-**Frameworks & Libraries:** React, NextJS, Ruby on Rails, Express.js, React Query, Zustand, React Router, TailwindCSS, 
-Bootstrap, ShadCN, Material UI, NodeJS, Jest, RSpec, Minitest  
+**Frameworks & Libraries:** React, Next.js, Ruby on Rails, Express.js, React Query, Zustand, React Router, TailwindCSS, 
+Bootstrap, ShadCN, Material UI, Node.js, Jest, RSpec, Minitest  
 **Databases & Backend:** PostgreSQL, MySQL, Supabase   
 **Tools & Technologies:** Git, GitHub, Vite, Figma, VS Code, Netlify, Render, TablePlus, Postman
 
