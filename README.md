@@ -17,7 +17,7 @@ I'm [**Emmanuel**](https://www.linkedin.com/in/emmanuel-toribio/), a frontend de
 
 ---
 
-## 🛠️ Tech Stack  
+**Tech Stack:**
 
 **Languages:** JavaScript, TypeScript, HTML, CSS, Ruby  
 
