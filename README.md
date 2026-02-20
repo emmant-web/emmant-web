@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1698266397/71722/1000059352q.gif?1698266397" width="25"/> 
 
-I'm [**Emmanuel**](https://www.linkedin.com/in/emmanuel-toribio/), a frontend developer from the Philippines who enjoys building practical web applications. I focus on creating clean interfaces and smooth user experiences with modern web technologies.
+I'm [**Emman**](https://www.linkedin.com/in/emmanuel-toribio/) (also known as ReactRamen on Reddit and X), a frontend developer from the Philippines who enjoys building practical web applications. I focus on creating clean interfaces and smooth user experiences with modern web technologies.
 
 **Currently working with:**
 - React, TypeScript, Next.js
